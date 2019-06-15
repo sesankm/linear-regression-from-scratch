@@ -8,6 +8,7 @@ implementation of linear regression with gradient descent from scratch
 **Loss Function**
 <br>Evaluates the accuracy of the prediction model at a single training sample. 
 <br>Squared error: <br><br>
+
 ![alt text](https://github.com/sesankmallikarjuna/linear-regression-from-scratch/blob/master/readme_files/loss.png)
 
 
