@@ -25,7 +25,7 @@ Minimizing the cost function yields the optium weights biases.
 
 
 **Gradient Descent**
-<br>Gradient is essentially a derivitive. It finds the route of quickest descent to a local minima on a function, in this case the function is the Cost. We have to differentiate in terms of both parameters m and b.
+<br>Gradient is essentially a derivitive. It finds the direction of quickest descent to a local minima on a function, in this case the function is the Cost. We have to differentiate in terms of both parameters m and b.
 <br><br>
 ![alt text](https://github.com/sesankmallikarjuna/linear-regression-from-scratch/blob/master/readme_files/grads.png)
 
