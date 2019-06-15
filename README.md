@@ -6,8 +6,7 @@ implementation of linear regression with gradient descent from scratch
 
 
 **Loss Function**
-<br>Evaluates the accuracy of the prediction model at a single training sample. 
-<br>Squared error: <br><br>
+<br>Evaluates the accuracy of the prediction model at a single training sample. <br><br>
 
 ![alt text](https://github.com/sesankmallikarjuna/linear-regression-from-scratch/blob/master/readme_files/LossFunc.png)
 
@@ -18,8 +17,7 @@ m: weight
 <br>i: current training sample
 
 **Cost Function**
-<br>Average loss over entire training data.
-<br>Mean Squared Error:<br><br>
+<br>Average loss over entire training data.<br><br>
 ![alt text](https://github.com/sesankmallikarjuna/linear-regression-from-scratch/blob/master/readme_files/Cost.png)
 
 
