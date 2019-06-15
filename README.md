@@ -31,8 +31,3 @@ Minimizing the cost function yields the optium weights biases.
 <br><br>
 ![alt text](https://github.com/sesankmallikarjuna/linear-regression-from-scratch/blob/master/readme_files/grads.png)
 
-
-**Training**
-<br>1) make prediction
-<br>2) calculate cost
-<br>3) update parameters
